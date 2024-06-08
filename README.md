@@ -20,7 +20,7 @@ This is a Telegram bot designed to facilitate user messaging and support. The bo
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/1aso/telegram-bot-user-messaging-support/tree/main
+    git clone https://github.com/1aso/telegram-bot-user-messaging-support
     ```
 2. Navigate to the project directory:
     ```bash
