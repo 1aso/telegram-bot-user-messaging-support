@@ -1,0 +1,4 @@
+python-dotenv
+python-telegram-bot==13.7
+pyrogram
+aiolimiter
